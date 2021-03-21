@@ -1,1 +1,1 @@
-# Sel-Ve-Ta-k-n-Similasyonu-VR
+# Sel-Ve-Taskin-Similasyonu-VR
