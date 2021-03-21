@@ -1,5 +1,7 @@
 # Sel-Ve-Taskin-Simulasyonu-VR
 
+Proje YouTube Linki : https://youtu.be/V1u92Ake-es
+
 Günümüzde görülen sel ve taşkın gibi doğal afetlerin artması ve bu afetler için önceden alınmaları gereken yöntemler bulunmaktadır. Bu afetlerde yaşanan en kötü olumsuzluklar arasında bulunan nedenlerden biride dere yataklarına kurulan evlerde görülmektedir. Olumsuz hava koşulları sırasında yaşanılan sert yağmurlarda dere yataklarının kabarması sonucu evlerin su altında kalması en büyük olumsuz nedenler arasındadır. Bu tarz durumların yaşanılmaması için önceden tedbirler almamız gerekmektedir. Bu tedbirler bireylere, özellikle de çocuklara, görsel sunum olacak şekilde maketlerden simülasyonlar oluşturularak aktarılması amaçlanıyor. 
 
 Biz de Genç nesillerimize düzenlediğimiz sanal gerçeklik uygulamalarıyla bu simülasyonları izleterek afetleri öğretmemiz ve bu afetlerde almamız gereken önlemleri göstererek bilinçlendirmemiz temel amacımızdır. Simülasyonları belli süre aralıklarıyla izleterek önce afeti canlı bir şekilde izletmemiz ve afet sırasında neler olduğunu nasıl olumsuzluklar ile karşılaşıldığını görmelerini sağlıyoruz. Bu olumsuz koşullar sonrasında alınması gereken önlemleri öğreterek, bu önlemleri de aldığımız takdirde yine aynı derecede olumsuz bir hava koşulu olduğunda büyük olasılıkla bir sorun yaşanmayacağını gösteririz. Bu yaptığımız uygulama öncelikle ilkokul seviyesindeki çocuklar üzerinde başlatılarak yeni gelecek olan nesillerimizi önceden bilinçlendirerek bilinçli bir toplum yetiştirmektir. 
