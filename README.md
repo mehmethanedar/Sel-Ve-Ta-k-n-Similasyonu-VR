@@ -1,1 +1,5 @@
 # Sel-Ve-Taskin-Simulasyonu-VR
+
+Günümüzde gerçek hayatta karşılaştığımız sel ve taşkın gibi afetler hakkında genç öğrencilerimize bilinç kazandırmak için birçok çalışma var. Bu çalışmalar içerisinde öğrenciye görsel bir sunum yapmak için maketler ile yapılmış simülasyonlar oluşturuluyor. Bu tarz eğitimler ve etkinlikler neticesinde genç nesillerin afetler konusunda bilgisinin artması sağlanmaktadır.
+Görsel sunumlar veya maketlerle gerçekleştirilmiş sunumlarda genç öğrencilere, kendilerini o an tam olarak afetin içindeymiş hissini sağlayamayabiliyor. Bunun için de kendilerini o ortamda hissettirebilmek için yapılmış olan bu maketleri ve simülasyonları sanal ortamda oluşturup, bu ortamı sanal gerçeklik gözlüğü ile izlettirebiliriz.
+Sanal gerçeklik ile öğrenme ortamları, gelişen teknolojinin eğitim-öğretim ortamlarına dâhil edilmesiyle birlikte öğrencilerin öğrenme deneyimlerini zenginleştirmek için tasarlanmış platformlardır. Sanal gerçekliğin en önemli özelliği gerçek ortamları taklit etmesidir ve gerçekçi dünyalar yaratabilmesidir.
